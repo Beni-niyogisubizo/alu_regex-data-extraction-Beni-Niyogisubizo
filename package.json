@@ -1,0 +1,24 @@
+{
+  "name": "alu_regex-data-extraction-beni-niyogisubizo",
+  "version": "1.0.0",
+  "description": "Data extraction from strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beni-niyogisubizo/alu_regex-data-extraction-Beni-Niyogisubizo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beni-niyogisubizo/alu_regex-data-extraction-Beni-Niyogisubizo/issues"
+  },
+  "homepage": "https://github.com/Beni-niyogisubizo/alu_regex-data-extraction-Beni-Niyogisubizo#readme",
+  "dependencies": {
+    "regex": "^6.0.1",
+    "xregexp": "^5.1.1"
+  }
+}
